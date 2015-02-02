@@ -1,0 +1,12 @@
+/Users/Joe/Projects/CUI.NET/CUI.NET/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Joe/Projects/CUI.NET/CUI.NET/bin/CUI.NET.dll.mdb
+/Users/Joe/Projects/CUI.NET/CUI.NET/bin/CUI.NET.dll
+/Users/Joe/Projects/CUI.NET/CUI.NET/obj/Debug/CUI.NET.dll
+/Users/Joe/Projects/CUI.NET/CUI.NET/obj/Debug/CUI.NET.dll.mdb
+/Users/Joe/Projects/CUI.NET/CUI.NET/bin/Microsoft.Web.Infrastructure.dll
+/Users/Joe/Projects/CUI.NET/CUI.NET/bin/System.Web.Razor.dll
+/Users/Joe/Projects/CUI.NET/CUI.NET/bin/System.Web.Helpers.dll
+/Users/Joe/Projects/CUI.NET/CUI.NET/bin/System.Web.WebPages.dll
+/Users/Joe/Projects/CUI.NET/CUI.NET/bin/System.Web.WebPages.Deployment.dll
+/Users/Joe/Projects/CUI.NET/CUI.NET/bin/System.Web.WebPages.Razor.dll
+/Users/Joe/Projects/CUI.NET/CUI.NET/bin/System.Web.Mvc.dll
