@@ -25,7 +25,6 @@ namespace CUI.NET
 				"{controller}/{action}/{id}",
 				new { controller = "Home", action = "Index", id = "" }
 			);
-
 		}
 
 		public static void RegisterGlobalFilters (GlobalFilterCollection filters)
