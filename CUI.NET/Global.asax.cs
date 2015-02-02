@@ -15,6 +15,12 @@ namespace CUI.NET
 			routes.IgnoreRoute ("{resource}.axd/{*pathInfo}");
 
 			routes.MapRoute (
+				"MultiTenantRoute",
+				"{sitename}/{controller}/{action}/{id}",
+				new {sitename = "",controller = "Home", action = "Index", id = ""}
+			);
+
+			routes.MapRoute (
 				"Default",
 				"{controller}/{action}/{id}",
 				new { controller = "Home", action = "Index", id = "" }
@@ -34,4 +40,5 @@ namespace CUI.NET
 			RegisterRoutes (RouteTable.Routes);
 		}
 	}
+
 }
