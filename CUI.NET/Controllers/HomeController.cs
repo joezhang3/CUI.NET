@@ -18,6 +18,8 @@ namespace CUI.NET.Controllers
 			ViewData ["Runtime"] = isMono ? "Mono" : ".NET";
 
 			return View ();
+
+
 		}
 	}
 }
