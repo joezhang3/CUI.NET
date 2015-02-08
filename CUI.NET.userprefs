@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="CUI.NET\CUI.NET.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="ChromeHTML" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CUI.NET\Web.config">
+    <Files>
+      <File FileName="CUI.NET\App_Start\AuthConfig.cs" Line="15" Column="15" />
+      <File FileName="CUI.NET\Web.config" Line="17" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
