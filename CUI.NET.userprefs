@@ -2,8 +2,8 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="ChromeHTML" />
   <MonoDevelop.Ide.Workbench ActiveDocument="CUI.NET\Web.config">
     <Files>
-      <File FileName="CUI.NET\App_Start\AuthConfig.cs" Line="15" Column="15" />
-      <File FileName="CUI.NET\Web.config" Line="17" Column="17" />
+      <File FileName="CUI.NET\App_Start\AuthConfig.cs" Line="1" Column="1" />
+      <File FileName="CUI.NET\Web.config" Line="12" Column="12" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
