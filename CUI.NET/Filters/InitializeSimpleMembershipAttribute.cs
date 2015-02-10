@@ -3,7 +3,6 @@ using System.Data.Entity;
 using System.Data.Entity.Infrastructure;
 using System.Threading;
 using System.Web.Mvc;
-using WebMatrix.WebData;
 using CUI.NET.Models;
 
 namespace CUI.NET.Filters
@@ -38,7 +37,7 @@ namespace CUI.NET.Filters
                         }
                     }
 
-                    WebSecurity.InitializeDatabaseConnection("DefaultConnection", "UserProfile", "UserId", "UserName", autoCreateTables: true);
+                    
                 }
                 catch (Exception ex)
                 {
