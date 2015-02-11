@@ -1,9 +1,9 @@
-﻿<Properties StartupItem="CUI.NET\CUI.NET.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="ChromeHTML" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="CUI.NET\App_Start\AuthConfig.cs">
+﻿<Properties StartupItem="CUI.NET/CUI.NET.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CUI.NET/Filters/InitializeSimpleMembershipAttribute.cs">
     <Files>
-      <File FileName="CUI.NET\App_Start\AuthConfig.cs" Line="21" Column="21" />
-      <File FileName="CUI.NET\Web.config" Line="12" Column="12" />
+      <File FileName="CUI.NET/Global.asax.cs" Line="1" Column="1" />
+      <File FileName="CUI.NET/Filters/InitializeSimpleMembershipAttribute.cs" Line="30" Column="30" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

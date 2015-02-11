@@ -7,6 +7,7 @@ E:\ActiveNet\Trunk\CUI.NET\CUI.NET\bin\EntityFramework.dll
 E:\ActiveNet\Trunk\CUI.NET\CUI.NET\bin\Microsoft.Data.Edm.dll
 E:\ActiveNet\Trunk\CUI.NET\CUI.NET\bin\Microsoft.Data.OData.dll
 E:\ActiveNet\Trunk\CUI.NET\CUI.NET\bin\Microsoft.Web.Infrastructure.dll
+E:\ActiveNet\Trunk\CUI.NET\CUI.NET\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
 E:\ActiveNet\Trunk\CUI.NET\CUI.NET\bin\Newtonsoft.Json.dll
 E:\ActiveNet\Trunk\CUI.NET\CUI.NET\bin\System.Net.Http.Formatting.dll
 E:\ActiveNet\Trunk\CUI.NET\CUI.NET\bin\System.Spatial.dll
@@ -23,15 +24,15 @@ E:\ActiveNet\Trunk\CUI.NET\CUI.NET\bin\System.Web.WebPages.Razor.dll
 E:\ActiveNet\Trunk\CUI.NET\CUI.NET\bin\WebGrease.dll
 E:\ActiveNet\Trunk\CUI.NET\CUI.NET\bin\Newtonsoft.Json.xml
 E:\ActiveNet\Trunk\CUI.NET\CUI.NET\bin\System.Net.Http.Formatting.xml
-E:\ActiveNet\Trunk\CUI.NET\CUI.NET\bin\System.Web.Helpers.xml
 E:\ActiveNet\Trunk\CUI.NET\CUI.NET\bin\System.Web.Http.xml
 E:\ActiveNet\Trunk\CUI.NET\CUI.NET\bin\System.Web.Http.WebHost.xml
+E:\ActiveNet\Trunk\CUI.NET\CUI.NET\bin\EntityFramework.xml
+E:\ActiveNet\Trunk\CUI.NET\CUI.NET\bin\System.Web.Helpers.xml
 E:\ActiveNet\Trunk\CUI.NET\CUI.NET\bin\System.Web.Mvc.xml
 E:\ActiveNet\Trunk\CUI.NET\CUI.NET\bin\System.Web.Razor.xml
 E:\ActiveNet\Trunk\CUI.NET\CUI.NET\bin\System.Web.WebPages.xml
 E:\ActiveNet\Trunk\CUI.NET\CUI.NET\bin\System.Web.WebPages.Deployment.xml
 E:\ActiveNet\Trunk\CUI.NET\CUI.NET\bin\System.Web.WebPages.Razor.xml
-E:\ActiveNet\Trunk\CUI.NET\CUI.NET\bin\EntityFramework.xml
 E:\ActiveNet\Trunk\CUI.NET\CUI.NET\bin\System.Web.Http.OData.xml
 E:\ActiveNet\Trunk\CUI.NET\CUI.NET\bin\Microsoft.Data.Edm.xml
 E:\ActiveNet\Trunk\CUI.NET\CUI.NET\bin\Microsoft.Data.OData.xml

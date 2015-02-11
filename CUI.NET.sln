@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CUI.NET", "CUI.NET\CUI.NET.csproj", "{FF90665E-9255-4DD5-895C-B25F007C9F07}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CUI.NET", "CUI.NET\CUI.NET.csproj", "{ED46FF50-7E33-4556-ABED-B8325980B236}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,12 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FF90665E-9255-4DD5-895C-B25F007C9F07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FF90665E-9255-4DD5-895C-B25F007C9F07}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FF90665E-9255-4DD5-895C-B25F007C9F07}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FF90665E-9255-4DD5-895C-B25F007C9F07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED46FF50-7E33-4556-ABED-B8325980B236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED46FF50-7E33-4556-ABED-B8325980B236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED46FF50-7E33-4556-ABED-B8325980B236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED46FF50-7E33-4556-ABED-B8325980B236}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = CUI.NET\CUI.NET.csproj
 	EndGlobalSection
 EndGlobal
